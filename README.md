@@ -28,6 +28,6 @@
     <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="tailwind" width="45" height="45"></img>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proreyson)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Proreyson" alt="GitHub Streak" /></a>
 
 
