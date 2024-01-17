@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on all famous web developer :)
 - ❤️ I love Playing Computer games
-- - 📫 How to reach me r3ys0ncarpio14@gmail.com
+- 📫 How to reach me r3ys0ncarpio14@gmail.com
 
 
 <h3>Connect with me: </h3>
@@ -30,6 +30,8 @@
 </p
 
 
+
+https://github-readme-streak-stats.herokuapp.com/?user=Proreyson
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proreyson)](https://github.com/anuraghazra/github-readme-stats)
