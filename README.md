@@ -32,9 +32,8 @@
 
 <h3>My Stats: </h3>
 <p>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proreyson)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proreyson)](https://github.com/anuraghazra/github-readme-stats)
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Proreyson)](https://git.io/streak-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proreyson)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
