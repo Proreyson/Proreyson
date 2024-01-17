@@ -2,8 +2,8 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on all famous web developer :)
-- 📫 How to reach me r3ys0ncarpio14@gmail.com
 - ❤️ I love Playing Computer games
+- - 📫 How to reach me r3ys0ncarpio14@gmail.com
 
 
 <h3>Connect with me: </h3>
@@ -34,7 +34,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proreyson)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Proreyson)](https://git.io/streak-stats)
 
 
 
