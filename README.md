@@ -28,6 +28,6 @@
     <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="tailwind" width="45" height="45"></img>
 </p>
 
-https://github-readme-streak-stats.herokuapp.com/?user=Proreyson
+https://github-readme-streak-stats.herokuapp.com/Proreyson
 
 
