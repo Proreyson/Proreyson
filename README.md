@@ -6,12 +6,12 @@
 
 
 <h3>Connect with me: </h3>
-<p align="left">
+<p align="left" style="margin: 5px;" >
     <a href="https://www.facebook.com/reysoncarpio">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45" style="margin: 5px;" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45" />
     </a>
     <a href="https://www.linkedin.com/in/reyson-carpio-148166283/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkin" width="45" height="45" style="margin: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Linkin" width="45" height="45"/>
     </a>    
 </p>  
 
