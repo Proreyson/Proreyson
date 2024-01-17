@@ -28,7 +28,7 @@
     <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="tailwind" width="45" height="45"></img>
 </p
 
-<h2> 🚀 &nbsp;Languages and Tools</h2>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Proreyson)](https://github.com/anuraghazra/github-readme-stats)
