@@ -6,7 +6,7 @@
 
 
 <h3>Connect with me: </h3>
-<p align="left" style="margin: 5px;" >
+<p align="left" style="padding: 5px;" >
     <a href="https://www.facebook.com/reysoncarpio">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45" />
     </a>
