@@ -21,7 +21,17 @@
 
 <h3> 🚀 &nbsp;Languages and Tools</h3>
 <p align="left">
-<img src="https://devicon-website.vercel.app/api/javascript/original.svg"></img>
+    <img src="https://devicon-website.vercel.app/api/html5/original.svg" alt="html" width="45" height="45"></img>
+    <img src="https://devicon-website.vercel.app/api/css3/original.svg" alt="css" width="45" height="45"></img>
+    <img src="https://devicon-website.vercel.app/api/javascript/original.svg" alt="javascript" width="45" height="45"></img>
+    <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg"alt="bootstrap" width="45" height="45"></img>
+    <img src="https://devicon-website.vercel.app/api/react/original.svg" alt="react" width="45" height="45"></img>
+    <img src="https://devicon-website.vercel.app/api/mysql/original.svg" alt="mysql" width="45" height="45"></img>
+    <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="php" width="45" height="45"></img>
+    <img src="https://devicon-website.vercel.app/api/laravel/plain.svg" alt="laravel" width="45" height="45"></img>
+    <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="tailwind" width="45" height="45"></img>
+    
+
 
 </p>
 
