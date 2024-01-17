@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Proreyson
-- 👀 I’m interested in Coding and Playing Computer games
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on all famous web developer :)
 - 📫 How to reach me r3ys0ncarpio14@gmail.com
+- ❤️ I love Playing Computer games
 
 
 <h3>Connect with me: </h3>
