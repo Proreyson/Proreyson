@@ -8,7 +8,7 @@
 <h3>Connect with me: </h3>
 <p align="left">
     <a href="">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="45" height="45" />
     </a>
    
 </p>  
