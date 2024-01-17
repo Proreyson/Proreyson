@@ -30,11 +30,7 @@
     <img src="https://devicon-website.vercel.app/api/php/original.svg" alt="php" width="45" height="45"></img>
     <img src="https://devicon-website.vercel.app/api/laravel/plain.svg" alt="laravel" width="45" height="45"></img>
     <img src="https://devicon-website.vercel.app/api/tailwindcss/original-wordmark.svg" alt="tailwind" width="45" height="45"></img>
-    
-
-
 </p>
 
 
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
